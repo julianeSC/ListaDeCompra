@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ListaDeCompra" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">#292727</item>
+        <item name="colorOnPrimary">@color/black</item> <!-- cor de status cabecalho-->
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#F30606</item> <!-- cor das opçoes-->
+        <item name="colorSecondaryVariant">#ECB8CB</item>
+        <item name="colorOnSecondary">@color/titulo</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Buy List</string>
+    <string name="titulo">Lista de Compra</string>
+    <string name="cbbatata">Batata Frita R$5,00</string>
+    <string name="cbfeijao">Feijão 1kg R$2,69</string>
+    <string name="cbleite">Leite R$2,70</string>
+    <string name="cbmacar">Macarrão R$16,70</string>
+    <string name="cbfaro">Farofa R$3,38</string>
+    <string name="cbrefri">Refrigerante R$3,00</string>
+    <string name="valor">Valor total</string>
+    <string name="btCalcular">Calcular</string>
+</resources>
